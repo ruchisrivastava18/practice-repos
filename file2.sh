@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Hi I am 2nd file to be present here in TerminalA"
+echo "Hi I am changed file to be present here in TerminalB"
 
