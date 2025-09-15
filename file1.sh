@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Hi I am chnaged file to be present here in Terminal A"
+echo "A has changed file1 again"
+
